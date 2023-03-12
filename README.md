@@ -5,8 +5,10 @@ Herkese Selam dostlar Bulup yapılandırmış Olduğum Bitcoin Puzzle Kodunu Kam
 
 # NASIL ÇALIŞIR?
 
-apt update && apt upgrade
-apt install git -y
-git clone https://github.com/adminsuskun/VanityGen.git
-cd focus
-chmod +x *
+$ apt update && apt upgrade
+$ apt install git -y
+$ git clone https://github.com/adminsuskun/VanityGen.git
+$ cd focus
+$ chmod +x *
+
+ Google Cloab İçin Dosyaları Google Drive a atıp Öyle çalıştırmayı unutmayın
